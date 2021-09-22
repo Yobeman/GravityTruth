@@ -56,7 +56,7 @@
         <!-- Page content-->
         <div class="container">
             <div class="text-center mt-5">
-                <h1>Long Heavy Game Stats</h1>
+                <h1>Long Heavy Game Stoots</h1>
                 <p class="lead">An Objective Solution to Finding the "LONG HEAVY CHAMP"</p>
                 <p>2021</p>
                 </div>
